@@ -26,5 +26,6 @@
     * Написание алгоритмов - **Абдуллаев / Османов**.
     * Разработка графического инфтрефейса - **Абдуллаев**.
 
+Схема карты метро:
 
 https://undergroundexpert.info/wp-content/uploads/2018/06/metro-mahachkala-schema-picture.jpg
